@@ -2,4 +2,4 @@
 
 clone this repository
 run pip install -r requirements.txt
-run python main.py
+run python3 main.py
